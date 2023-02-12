@@ -1,0 +1,2 @@
+## Fundamentos da Programação 2022/1, Estrutura Sequencial
+Este repositório contém todos os exemplos e atividades de estrutura sequencial em C, realizadas por mim durante o 1ºPeríodo de Engenharia de Computação.
